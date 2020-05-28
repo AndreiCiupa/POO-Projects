@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Playing Card\Playing Card\obj\Debug\Playing Card.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Playing Card\Playing Card\bin\Debug\Playing Card.exe.config
+C:\Users\Lenovo\source\repos\Playing Card\Playing Card\bin\Debug\Playing Card.exe
+C:\Users\Lenovo\source\repos\Playing Card\Playing Card\bin\Debug\Playing Card.pdb
+C:\Users\Lenovo\source\repos\Playing Card\Playing Card\obj\Debug\Playing Card.exe
+C:\Users\Lenovo\source\repos\Playing Card\Playing Card\obj\Debug\Playing Card.pdb
